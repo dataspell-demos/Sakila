@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Films.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/New_file.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/employees_database.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/postgres-sakila-insert-data.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/postgres-sakila-schema.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/untitled folder 2" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Downloads/untitled folder 2/public/actor.sql" dialect="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/4268ffd3-5910-4486-863e-2b749d7babeb/console.sql" dialect="MySQL" />
+    <file url="PROJECT" dialect="MySQL" />
+  </component>
+</project>
