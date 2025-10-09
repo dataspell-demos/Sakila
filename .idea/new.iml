@@ -9,6 +9,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
+    <content url="file://$MODULE_DIR$/../sakila" />
     <content url="file://$USER_HOME$/Downloads" />
     <content url="file://$USER_HOME$/Downloads/sakila-main/postgres-sakila-db" />
     <orderEntry type="inheritedJdk" />
