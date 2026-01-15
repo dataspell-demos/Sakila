@@ -1,4 +1,4 @@
-SELECT * FROM actor JOIN public.film_actor fa on actor.actor_id = fa.actor_id;
+SELECT * FROM "table" JOIN public.film_actor fa on actor.actor_id = fa.actor_id;
 
 SELECT f.film_id,
        f.title,

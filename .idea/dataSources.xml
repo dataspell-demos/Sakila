@@ -1,32 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Speakers" uuid="0e3de688-8746-48d7-b024-e2050df6b215">
+    <data-source source="LOCAL" name="Speakers" group="PostgreSQL" uuid="0e3de688-8746-48d7-b024-e2050df6b215">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5433/postgres</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="Features" uuid="71adc696-90bd-49ae-9bf6-2f95e2c1703e">
+    <data-source source="LOCAL" name="Features" group="SQLite" uuid="71adc696-90bd-49ae-9bf6-2f95e2c1703e">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:identifier.sqlite</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="@localhost" uuid="4268ffd3-5910-4486-863e-2b749d7babeb">
+    <data-source source="LOCAL" name="MySQL_sales_store" group="MySQL" uuid="4268ffd3-5910-4486-863e-2b749d7babeb">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/</jdbc-url>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/new</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="postgres@localhost" uuid="344a2938-9347-4859-9249-894e936a2d0e">
+    <data-source source="LOCAL" name="postgres@localhost" group="PostgreSQL" uuid="344a2938-9347-4859-9249-894e936a2d0e">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5437/postgres</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="EXTERNAL_DATA_PATH" value="$USER_HOME$/Downloads/external-data-postgres_localhost.xml" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="@cluster0-2ejqn.mongodb.net" group="MongoDB" uuid="2c4c11a1-eeff-45d6-9fca-b385f9f4229a">
+      <driver-ref>mongo.4</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb://localhost:27017</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="PG DataSource" group="PostgreSQL" uuid="c3f61525-3b32-4f48-8d7f-0a91451ca1a7">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:54333/postgres</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="EXTERNAL_DATA_PATH" value="$USER_HOME$/Downloads/New_view.xml" />
+      </jdbc-additional-properties>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>

@@ -4,6 +4,16 @@
     <file url="file://$PROJECT_DIR$/Films.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/New_file.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/employees_database.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/mew.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_2.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_3.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_4.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_5.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../sakila/mysql-sakila-db/mysql-sakila-insert-data.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../sakila/mysql-sakila-db/mysql-sakila-schema.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../sakila/postgres-sakila-db/postgres-sakila-schema.sql" dialect="PostgreSQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/c3f61525-3b32-4f48-8d7f-0a91451ca1a7/console_3.sql" dialect="PostgreSQL" />
   </component>
 </project>
