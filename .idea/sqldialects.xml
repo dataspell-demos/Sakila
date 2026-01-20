@@ -21,6 +21,7 @@
     <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost_altered]_6.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost_altered]_7.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/sakila/ddl_db.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sakila/mysql-sakila-db/mysql-sakila-schema.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/sakila/postgres-sakila-db/postgres-sakila-schema.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/script.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/../Downloads/mysql-sakila-insert-data.sql" dialect="MySQL" />

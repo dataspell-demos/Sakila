@@ -4,12 +4,12 @@
     <option name="dataSources">
       <list>
         <State>
-          <option name="id" value="f02cac97-e757-42f0-9a78-a01e20aa8c73" />
+          <option name="id" value="ea009a66-8216-458e-8bf6-99e8839b7f4d" />
           <option name="name" value="ddl_db" />
-          <option name="dbmsName" value="UNKNOWN" />
+          <option name="dbmsName" value="MYSQL" />
           <option name="urls">
             <array>
-              <option value="file://$PROJECT_DIR$/sakila/postgres-sakila-db/postgres-sakila-schema.sql" />
+              <option value="file://$PROJECT_DIR$/sakila/mysql-sakila-db/mysql-sakila-schema.sql" />
             </array>
           </option>
           <option name="outLayout" value="File per object by schema.groovy" />
