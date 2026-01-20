@@ -1,0 +1,9 @@
+INSERT INTO public.category (category_id, name) VALUES (2, 'Animation');
+INSERT INTO public.category (category_id, name) VALUES (3, 'Children');
+INSERT INTO public.category (category_id, name) VALUES (4, 'Classics');
+INSERT INTO public.category (category_id, name) VALUES (5, 'Comedy');
+INSERT INTO public.category (category_id, name) VALUES (6, 'Documentary');
+INSERT INTO public.category (category_id, name) VALUES (7, 'Drama');
+INSERT INTO public.category (category_id, name) VALUES (8, 'Family');
+INSERT INTO public.category (category_id, name) VALUES (9, 'Foreign');
+INSERT INTO public.category (category_id, name) VALUES (10, 'Games');

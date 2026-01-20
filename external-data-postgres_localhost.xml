@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <object-set>
+    <root path="">
+      <view name="Actor" query="SELECT * FROM actor;"/>
+    </root>
+    <database path="postgres">
+      <view name="Actor" query="SELECT * FROM actor"/>
+    </database>
+    <table path="postgres.public.visitor_log">
+      <table path="postgres.public.visitor" from="visitor_id" to="id"/>
+    </table>
+  </object-set>
+</data>

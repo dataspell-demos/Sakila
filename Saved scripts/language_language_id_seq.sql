@@ -1,0 +1,2 @@
+create sequence language_language_id_seq;
+

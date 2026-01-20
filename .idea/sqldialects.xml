@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/new/Films.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[identifier.sqlite].sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[identifier.sqlite]_1.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[identifier.sqlite_[3]].sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost].sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost]_3.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost]_4.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost]_5.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost]_6.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost]_7.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost_[2]].sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost_altered].sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost_altered]_1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost_altered]_2.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost_altered]_3.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost_altered]_4.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost_altered]_5.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost_altered]_6.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/Query_[postgreslocalhost_altered]_7.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/sakila/ddl_db.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sakila/postgres-sakila-db/postgres-sakila-schema.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/script.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/../Downloads/mysql-sakila-insert-data.sql" dialect="MySQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/7e0d6432-3ed8-4f1e-937e-06c56d0e87e0/console.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/../PycharmProjects/My Scripts/Queries.sql" dialect="PostgreSQL" />
+  </component>
+</project>
