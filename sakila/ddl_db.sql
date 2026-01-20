@@ -191,12 +191,6 @@ ALTER TABLE public.film_actor OWNER TO postgres;
 -- Name: film_category; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
 --
 
-CREATE TABLE film_category (
-    film_id integer NOT NULL,
-    category_id integer NOT NULL,
-    last_update timestamp without time zone DEFAULT now() NOT NULL
-);
-
 
 ALTER TABLE public.film_category OWNER TO postgres;
 
@@ -364,12 +358,6 @@ ALTER TABLE public.inventory_inventory_id_seq OWNER TO postgres;
 -- Name: inventory; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
 --
 
-CREATE TABLE inventory (
-    inventory_id integer DEFAULT nextval('inventory_inventory_id_seq'::regclass) NOT NULL,
-    film_id integer NOT NULL,
-    store_id integer NOT NULL,
-    last_update timestamp without time zone DEFAULT now() NOT NULL
-);
 
 
 ALTER TABLE public.inventory OWNER TO postgres;
