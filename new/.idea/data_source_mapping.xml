@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/New_file.sql" value="0e3de688-8746-48d7-b024-e2050df6b215" />
+    <file url="file://$PROJECT_DIR$/../sakila/postgres-sakila-db/postgres-sakila-schema.sql" value="344a2938-9347-4859-9249-894e936a2d0e" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/344a2938-9347-4859-9249-894e936a2d0e/console.sql" value="344a2938-9347-4859-9249-894e936a2d0e" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/61506704-8f10-4837-9fce-c2f8b59a3e0d/console.sql" value="344a2938-9347-4859-9249-894e936a2d0e" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/71adc696-90bd-49ae-9bf6-2f95e2c1703e/console.sql" value="71adc696-90bd-49ae-9bf6-2f95e2c1703e" />
+  </component>
+</project>
